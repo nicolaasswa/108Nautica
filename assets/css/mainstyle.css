@@ -1,0 +1,52 @@
+body {
+    background-color: #
+}
+
+h1, h2, h3, h4, h5, p, footer, li {
+    font-family: Rubik;
+}
+
+h1, h2, h3, h4, h5, strong {
+    color: darkcyan;
+}
+
+.homepagetext {
+    margin: 2% 10% 0% 10%;
+}
+
+.facilitiestext {
+    margin: 2% 10% 0% 10%;
+}
+
+.pricingtext {
+    margin: 2% 10% 0% 10%;
+}
+
+.activitiestext {
+    margin: 2% 10% 0% 10%;
+}
+
+.contacttext {
+    margin: 2% 10% 0% 10%;
+}
+
+.footertext {
+    margin: 2% 10% 0% 10%;
+    text-align: center;
+    padding: 1% 0% 1% 0%;
+}
+
+a:link {
+    text-decoration: none;
+    color:darkcyan;
+}
+
+a:hover {s
+    text-decoration: none;
+    color:darkcyan;
+}
+
+a:visited {
+    text-decoration: none;
+    color:darkcyan;
+}
